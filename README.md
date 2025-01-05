@@ -1,7 +1,27 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+I have developed a Flipkart clone mobile app using React Native CLI, integrating products from the FakeStore API, which is accessible at FakeStore API GitHub Repository (https://github.com/keikaavousi/fake-store-api). The app replicates the functionality and design of an e-commerce platform, providing users with an intuitive interface to browse, search, and interact with a variety of products.
+![FlipkartSplash](https://github.com/user-attachments/assets/72606b3e-0805-41ef-a56d-c0331c83b19e)
 
+![Flipkart_Login](https://github.com/user-attachments/assets/da9dea72-8b3b-4e10-b401-84916091206e)
+
+![Flipkarrt_Profile](https://github.com/user-attachments/assets/e415c35e-f79f-4550-8e85-078ed00589ef)
+
+![Flipkarrt_Product](https://github.com/user-attachments/assets/e1f2a47c-622e-411a-82e3-937c80653a87)
+
+![Flipkarrt_Home](https://github.com/user-attachments/assets/4974486d-6585-47da-9da9-7e6ada9b0579)
+
+![Flipkarrt_Detail](https://github.com/user-attachments/assets/ec80df3b-5378-408a-9ec2-214907132afb)
+
+
+![Flipkarrt_Cart](https://github.com/user-attachments/assets/e2c34ec8-1f8b-430b-bb15-e4d6b63985db)
+
+
+
+
+
+
+# Getting Started
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
